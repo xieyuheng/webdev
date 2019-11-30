@@ -1,7 +1,6 @@
 {
   "name": "@cicadoidea/webdev",
   "title": "WebDev",
-  "main": "src/webdev.js",
   "files": [
     "lib"
   ],
@@ -13,6 +12,6 @@
     "url": "https://github.com/cicadoidea/webdev"
   },
   "dependencies": {
-    "@cicadoidea/basic": "0.0.3"
+    "@cicadoidea/basic": "0.0.6"
   }
 }
