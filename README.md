@@ -1,6 +1,6 @@
 # WebDev
 
-WebDev libraries for nodejs.
+Web developers' libraries.
 
 - `npm install @cicadoidea/webdev`
 
